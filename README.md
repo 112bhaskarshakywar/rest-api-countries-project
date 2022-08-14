@@ -79,6 +79,6 @@ To do:
 
 
 ## Contact
-Created by [@flynerdpl](112bhaskarshakywar@gmail.com ) - feel free to contact me!
+Created by [@bhaskar](112bhaskarshakywar@gmail.com ) - feel free to contact me!
 
 
