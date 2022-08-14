@@ -43,7 +43,7 @@ List the ready features here:
 ## Screenshots
 ![Screenshot (60)](https://user-images.githubusercontent.com/68631246/182025868-ff48e3d5-7544-4e57-bd2b-b822aa2569f1.png)
 ![Screenshot (61) - Copy](https://user-images.githubusercontent.com/68631246/182025873-45b3da79-ec91-4b4a-b54b-763d03b8a226.png)
-![Screenshot (61)](https://user-images.githubusercontent.com/68631246/182025877-f2250fe4-91ea-4882-828d-aba380e7c392.png)
+
 
 ## Setup
 i have used bootstrap for styling the projects
@@ -52,9 +52,9 @@ i used json file here to fetch the countries data.
 
 
 ## Usage
-1> we can use it for information of countries. 
-2> we can use it for countries capital.
-3> to view everything about countries.
+- we can use it for information of countries. 
+- we can use it for countries capital.
+- to view everything about countries.
 
 
 ## Project Status
